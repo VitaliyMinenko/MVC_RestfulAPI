@@ -1,0 +1,29 @@
+#header {
+	height:50px;
+	margin-top:10px
+}
+#header p {
+	float:right;
+	font-size:large;
+	font-family:"Helvetica Neue";
+}
+.middle {
+	margin-top:20px
+}
+.footer {
+	margin-bottom:50px;
+	width:100%;
+}
+div.paginator {
+	width:500px;
+	float:left;
+}
+div.add_panel {
+	float:right;
+}
+.total_txt {
+	font-size:15px;
+}
+span.total {
+	color:red;
+}
